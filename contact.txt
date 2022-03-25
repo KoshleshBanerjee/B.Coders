@@ -1,0 +1,15 @@
+<HTML>
+<BODY style="background-color:#91a19d;">
+<center>
+<h1 style="color:maroon;"><big><big><u><i>CONTACT US</i></u></big></big></h1>
+</center>
+<hr>
+<br>
+<center>
+<h2 style="color:SlateBlue;">For further information and any querries the undersigned may be contacted. </h2>
+<br>
+<h3 style="text-align:center;">Phone Number: 9433027510 , 7001369683 , 8420126066 </p2><br>
+<p3 style="text-align:center;">Email: abhikr2210@gmail.com<br>koshlesh59@gmail.com</p3>
+</center>
+</BODY>
+</HTML>
